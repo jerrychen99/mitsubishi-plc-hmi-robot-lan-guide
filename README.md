@@ -29,3 +29,6 @@
 # PC
 - Control Panel → Network and Internet → Network and Sharing Center → Ethernet → Properties → Internet Protocol Version 4 (TCP/IPv4): set a static IP in the same LAN (e.g., 192.168.57.66).
 - Connect all Ethernet cables to a hub/switch to form the LAN.
+
+# Demo
+[![Watch the video](https://github.com/jerrychen99/mitsubishi-plc-hmi-robot-lan-guide/blob/main/PLC%2BHMI%2BRobot/Summary.png)](https://youtube.com/shorts/BiCiQuyrKuk?si=T0fEkDjsCLJZmxqJ)
